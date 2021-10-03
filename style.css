@@ -1,0 +1,74 @@
+.bg{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.bg-2{
+    width: 100px;
+    height: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.carousel-indicators .active{
+    background-color: orange;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.head-2{
+    color: orange;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 10px;
+    
+   
+}
+.heading{
+ margin-bottom: 30px ;
+}
+.cat{
+    text-align: center;
+  
+  
+}
+ hr{
+    width: 90px;
+    height: 10px;
+    /* background-color: orange; */
+    border: 8px solid rgb(243, 172, 39);
+    border-radius: 10px;
+    
+    margin: auto;
+    margin-bottom: 50px;
+    
+} 
+.cat-1,.cat-2,.cat-3{
+    border: none;
+    box-shadow: 8px 10px 60px rgb(196, 204, 212);
+    padding: 40px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.cat-4{
+  
+    margin: 10px;
+    padding: 10px;
+    height: 400px;
+    
+}
